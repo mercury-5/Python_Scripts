@@ -15,7 +15,6 @@ I'm using this repository to keep track of my learning of Python scripts. This r
 
 - `data_handler.py`: This Python script provides a comprehensive set of tools for working with a student database stored in a CSV file. It is designed to facilitate a wide range of operations related to student records, including data retrieval, analysis, and management.
 - `database.csv`: This csv file contains all the data about the students
-- ...
 
 ### Directory 2: `Assignment3`
 
@@ -29,7 +28,6 @@ I'm using this repository to keep track of my learning of Python scripts. This r
 - `password_checker.py`: This script checks the entered password matches the required criteria or not.
 - `random_password.py`: This script generates a random password.
 - `sentence_transform`: This script performs some transformation upon the user entered text
-- ...
 
 ## Contributions
 
