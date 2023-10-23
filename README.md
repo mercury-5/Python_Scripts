@@ -9,7 +9,7 @@ This repository contains Python scripts organized into two directories, each ser
 ### Directory 1: `Assignment2`
 
 - Description: This directory includes one csv file in which student data is there and one pythonscript that performs various operation on that csv file
-- [Assignment2](/Assignment2)
+- [https://github.com/mercury-5/Python_Scripts/tree/main/Assignment2](/Assignment2)
 
 #### Included Python Scripts
 
