@@ -1,4 +1,5 @@
-# Restaurant Order Processing Script
+# Script Documentation
+## Restaurant Order Processing Script
 
 `restaurant_biiling_script.py`: This Python script is designed to assist a restaurant in processing customer orders and generating bills. The script reads a menu from a CSV file, allows customers to select items, and calculates the bill with 18% GST. The final bill is beautifully formatted and displayed to the customer.
 
