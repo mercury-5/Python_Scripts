@@ -19,7 +19,7 @@ This repository contains Python scripts organized into two directories, each ser
 ### Directory 2: `Assignment3`
 
 - Description: Provide a brief description of this directory, outlining its purpose or the kind of Python scripts it houses.
-- [[Link to Directory 2](https://github.com/mercury-5/Python_Scripts/tree/main/Assignment3)](/Assignment3)
+- [https://github.com/mercury-5/Python_Scripts/tree/main/Assignment3](/Assignment3)
 
 #### Included Python Scripts
 
