@@ -13,14 +13,13 @@ This repository contains Python scripts organized into two directories, each ser
 
 #### Included Python Scripts
 
-- `script1.py`: A description of what this script does.
-- `script2.py`: A brief description of the functionality of this script.
+- `data_handler.py`: A description of what this script does.
 - ...
 
-### Directory 2: `Directory_Name_2`
+### Directory 2: `Assignment3`
 
 - Description: Provide a brief description of this directory, outlining its purpose or the kind of Python scripts it houses.
-- [Link to Directory 2](/Directory_Name_2)
+- [[Link to Directory 2](https://github.com/mercury-5/Python_Scripts/tree/main/Assignment3)](/Assignment3)
 
 #### Included Python Scripts
 
