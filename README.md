@@ -13,23 +13,23 @@ This repository contains Python scripts organized into two directories, each ser
 
 #### Included Python Scripts
 
-- `data_handler.py`: A description of what this script does.
+- `data_handler.py`: This Python script provides a comprehensive set of tools for working with a student database stored in a CSV file. It is designed to facilitate a wide range of operations related to student records, including data retrieval, analysis, and management.
+- `database.csv`: This csv file contains all the data about the students
 - ...
 
 ### Directory 2: `Assignment3`
 
-- Description: Provide a brief description of this directory, outlining its purpose or the kind of Python scripts it houses.
+- Description: This directory includes several python scripts like a random password generator, a password checker, sentence tranformer and a restaurant billing script.
 - [https://github.com/mercury-5/Python_Scripts/tree/main/Assignment3](/Assignment3)
 
 #### Included Python Scripts
 
-- `scriptA.py`: Explain the purpose or functionality of this script.
-- `scriptB.py`: Briefly describe what this script is designed for.
+- `restaurant_billing_script.py`: This script takes the menu inforamtion from the csv file and takes order from the user and according to the order it prepares the bill with 18% GST.
+- `restaurant_menu.csv`: This csv file contains all the restaurant menu inforamtion.
+- `password_checker.py`: This script checks the entered password matches the required criteria or not.
+- `random_password.py`: This script generates a random password.
+- `sentence_transform`: This script performs some transformation upon the user entered text
 - ...
-
-## Usage
-
-Include instructions or usage examples for running the scripts in both directories. Provide any specific prerequisites or dependencies required for executing these scripts.
 
 ## Contributions
 
@@ -44,10 +44,6 @@ If you'd like to contribute to this repository, please follow these steps:
 ## Issues
 
 If you encounter any issues, bugs, or have suggestions for improvements, please [open an issue](/issues) in this repository.
-
-## License
-
-This repository is licensed under the [License Name](/LICENSE), which specifies the terms and conditions for using the code in this repository. Please review the license before using or contributing to this project.
 
 ---
 
