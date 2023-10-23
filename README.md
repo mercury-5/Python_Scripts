@@ -6,9 +6,9 @@ This repository contains Python scripts organized into two directories, each ser
 
 ## Directories
 
-### Directory 1: `Directory_Name_1`
+### Directory 1: `Assignment2`
 
-- Description: Briefly describe what this directory contains, such as the purpose or the type of Python scripts it includes.
+- Description: This directory includes one csv file in which student data is there and one pythonscript that performs various operation on that csv file
 - [Link to Directory 1](/Directory_Name_1)
 
 #### Included Python Scripts
