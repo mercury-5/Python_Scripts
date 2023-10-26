@@ -3,6 +3,7 @@
 ## Overview
 
 I'm using this repository to keep track of my learning of Python scripts. This repository contains Python scripts organized into three directories, each serving a different purpose. The scripts are designed to address various tasks, and this README provides an overview of the contents and usage of each directory.
+---
 
 ## Directories
 
