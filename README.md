@@ -59,7 +59,7 @@ If you'd like to contribute to this repository, please follow these steps:
 
 ## Issues
 
-If you encounter any issues, bugs, or have suggestions for improvements, please [/issues](https://github.com/mercury-5/Python_Scripts/issues) in this repository.
+If you encounter any issues, bugs, or have suggestions for improvements, please [`issues`](https://github.com/mercury-5/Python_Scripts/issues) in this repository.
 
 ---
 
