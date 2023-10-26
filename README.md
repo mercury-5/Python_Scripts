@@ -9,7 +9,7 @@ I'm using this repository to keep track of my learning of Python scripts. This r
 ### Directory 1: `Assignment1`
 
 - Description: This directory includes one csv file in which student data is there and one pythonscript that performs various operation on that csv file
-- [https://github.com/mercury-5/Python_Scripts/tree/main/Assignment1](/Assignment1)
+- [/Assignment1](https://github.com/mercury-5/Python_Scripts/tree/main/Assignment1)
 
 #### Included Python Scripts
 
@@ -27,7 +27,7 @@ I'm using this repository to keep track of my learning of Python scripts. This r
 ### Directory 2: `Assignment2`
 
 - Description: This directory includes one csv file in which student data is there and one pythonscript that performs various operation on that csv file
-- [https://github.com/mercury-5/Python_Scripts/tree/main/Assignment2](/Assignment2)
+- [/Assignment2](https://github.com/mercury-5/Python_Scripts/tree/main/Assignment2)
 
 #### Included Python Scripts
 
@@ -37,7 +37,7 @@ I'm using this repository to keep track of my learning of Python scripts. This r
 ### Directory 3: `Assignment3`
 
 - Description: This directory includes several python scripts like a random password generator, a password checker, sentence tranformer and a restaurant billing script.
-- [https://github.com/mercury-5/Python_Scripts/tree/main/Assignment3](/Assignment3)
+- [/Assignment3](https://github.com/mercury-5/Python_Scripts/tree/main/Assignment3)
 
 #### Included Python Scripts
 
@@ -59,7 +59,7 @@ If you'd like to contribute to this repository, please follow these steps:
 
 ## Issues
 
-If you encounter any issues, bugs, or have suggestions for improvements, please [https://github.com/mercury-5/Python_Scripts/issues](/issues) in this repository.
+If you encounter any issues, bugs, or have suggestions for improvements, please [/issues](https://github.com/mercury-5/Python_Scripts/issues) in this repository.
 
 ---
 
